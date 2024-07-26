@@ -1,4 +1,3 @@
-# juniorGitH-juniorGitH
 <h1 align="center">Hi 👋, I'm Emmanuel AMELA</h1>
 <h3 align="center">full-stack developper</h3>
 
