@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **web, Desktop, Mobile and AI development**
+- 💬 Ask me about **web, Desktop, Mobile, API and AI development**
 
 - 📫 How to reach me **Emmanuel.Amela@studentambassadors.com**
 
